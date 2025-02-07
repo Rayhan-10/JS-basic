@@ -1,0 +1,11 @@
+// var  age=60;
+// console.log(age);
+// var price=60;
+// console.log(price);
+//  var number;
+//  console.log(number);
+//  var price=49;
+//  price=null;
+//  console.log(price);
+const num=isNaN("ratgab");
+console.log(num);

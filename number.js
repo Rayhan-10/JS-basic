@@ -1,0 +1,15 @@
+// var orangePrice=20;
+// var applePrice=50;
+// console.log(orangePrice);
+// console.log(typeof orangePrice);
+// var lichePrice =parseInt('50');
+// var cg= parseInt(4.55);
+// console.log(cg);
+// console.log(typeof lichePrice);
+// console.log(orangePrice + lichePrice);
+// var num1=0.1;
+// var num2 =0.2;
+// var total = num1 + num2;
+// console.log(parseFloat(total.toFixed(1)));
+const num = 50/0;
+console.log(num);
